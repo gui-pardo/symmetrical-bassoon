@@ -6,6 +6,7 @@
     "start_url": "/symmetrical-bassoon/",
     "name": "PwaM1",
     "short_name": "PwaM1",
+    "description": "pwam1",
     "icons": [
         {
             "src": "icon-192x192.png",
